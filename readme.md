@@ -5,4 +5,4 @@
 - [Course Introduction][intro_pdf]
 
 
-[intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
+[intro_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/Course%20Intro.pdf
