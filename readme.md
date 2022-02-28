@@ -18,7 +18,7 @@
 - [Lec 6][Lec6_pdf]
 - [Lec 6 Video][Lec6_vid]
 - [Lec 6 Codes][Lec6_code]
-
+- Programming Task 3 Files[PT3_file]
 
 [intro_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/Course%20Intro.pdf
 
@@ -43,3 +43,5 @@
 [Lec6_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L6.pdf
 [Lec6_vid]:https://youtu.be/_PPXtiEr7n8
 [Lec6_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L6_Code
+
+[PT3_file]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/Programming%20Task%203
