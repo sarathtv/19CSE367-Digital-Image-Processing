@@ -18,7 +18,22 @@
 - [Lec 6][Lec6_pdf]
 - [Lec 6 Video][Lec6_vid]
 - [Lec 6 Codes][Lec6_code]
-- [Programming Task 3 Files][PT3_file]
+- [Lec 7][Lec7_pdf]
+- [Lec 7 Video][Lec7_vid]
+- [Lec 7 Codes][Lec7_code]
+- [Lec 8][Lec8_pdf]
+- [Lec 8 Video][Lec8_vid]
+- [Lec 8 Codes][Lec8_code]
+- [Lec 9][Lec9_pdf]
+- [Lec 9 Video][Lec9_vid]
+- [Lec 9 Codes][Lec9_code]
+- [Lec 10][Lec10_pdf]
+- [Lec 10 Video][Lec10_vid]
+
+
+
+
+
 
 [intro_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/Course%20Intro.pdf
 
@@ -44,4 +59,18 @@
 [Lec6_vid]:https://youtu.be/_PPXtiEr7n8
 [Lec6_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L6_Code
 
-[PT3_file]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/Programming%20Task%203
+
+[Lec7_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L7.pdf
+[Lec7_vid]:https://youtu.be/EMAo6t-Op-U
+[Lec7_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L7_Code
+
+[Lec8_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L8.pdf
+[Lec8_vid]:https://youtu.be/SgGqFBZcZQs
+[Lec8_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L8_Code
+
+[Lec9_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L9.pdf
+[Lec9_vid]:https://youtu.be/T6IFUBLe3cg
+[Lec9_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L9_Code
+
+[Lec10_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L10.pdf
+[Lec10_vid]:https://youtu.be/pdfr3mOS3m0
