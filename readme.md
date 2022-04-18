@@ -29,7 +29,12 @@
 - [Lec 9 Codes][Lec9_code]
 - [Lec 10][Lec10_pdf]
 - [Lec 10 Video][Lec10_vid]
-
+- [Lec 11 ][Lec11]
+- [Lec 10-11 Codes][Lec10_11_code]
+- [Lec 12 ][Lec12]
+- [Lec 12 Codes][Lec12_code]
+- [Lec 13 ][Lec13]
+- [Lec 13 Codes][Lec13_code]
 
 
 
@@ -74,3 +79,10 @@
 
 [Lec10_pdf]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L10.pdf
 [Lec10_vid]:https://youtu.be/pdfr3mOS3m0
+
+[Lec11]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L11.pdf
+[Lec10_11_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L10_11_Code
+[Lec12]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L12.pdf
+[Lec12_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L12_Code
+[Lec13]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L13.pdf
+[Lec13_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L13_Code
