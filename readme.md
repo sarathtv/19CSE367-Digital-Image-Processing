@@ -35,7 +35,12 @@
 - [Lec 12 Codes][Lec12_code]
 - [Lec 13 ][Lec13]
 - [Lec 13 Codes][Lec13_code]
-
+- [Lec 14 ][Lec14]
+- [Lec 15 ][Lec15]
+- [Lec 16 ][Lec16]
+- [Lec 17 ][Lec17]
+- [Lec 18 ][Lec18]
+- [Lec 19 ][Lec19]
 
 
 
@@ -86,3 +91,10 @@
 [Lec12_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L12_Code
 [Lec13]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L13.pdf
 [Lec13_code]:https://github.com/sarathtv/19CSE367-Digital-Image-Processing/tree/master/Additional%20Materials/L13_Code
+
+[Lec14]::https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L14.pdf
+[Lec15]::https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L15.pdf
+[Lec16]::https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L16.pdf
+[Lec17]::https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L17.pdf
+[Lec18]::https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L18.pdf
+[Lec19]::https://github.com/sarathtv/19CSE367-Digital-Image-Processing/blob/master/Lectures/19CSE367_L19.pdf
